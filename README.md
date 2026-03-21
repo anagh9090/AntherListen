@@ -1,4 +1,7 @@
 # AntherListen
+<img src="logo.png" alt="LOGO" width="200" height="200">
+
+
 
 **AntherListen** is a open-source project, forked from **Music Player Go**.
 Visit **Music Player Go** here:         [Music Player Go Github](https://github.com/enricocid/Music-Player-GO)
