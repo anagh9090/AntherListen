@@ -9,7 +9,7 @@
     <string name="on_close_activity">Oynatma dayandırılsın\?</string>
     <string name="queue_songs_clear">Növbə təmizlənsin\?</string>
     <string name="favorites_clear">Bütün sevimlilər silinsin\?</string>
-    <string name="favorite_remove">%1s (%2s) sevimlilərdən silinsin\?</string>
+    <string name="favorite_remove">%1$s (%2$s) sevimlilərdən silinsin\?</string>
     <string name="favorites_save_time">Mahnı mövqeyini saxla</string>
     <string name="sorting_pref_reset">İzləmə çeşidlənməsini sıfırla</string>
     <string name="sorting_pref_reset_sum">Albom və qovluqlara aiddir</string>
@@ -24,8 +24,8 @@
     <string name="sorting_pref_reset_neutral">Sorğunu dayandır</string>
     <string name="equalizer_presets">Ön parametrlər</string>
     <string name="equalizer_bb">Bas gücləndirmə</string>
-    <string name="artist_info">%1d Albom, %2d Mahnı</string>
-    <string name="folder_info">%1d Mahnı</string>
+    <string name="artist_info">%1$d Albom, %2$d Mahnı</string>
+    <string name="folder_info">%1$d Mahnı</string>
     <string name="sorting_pref">Sıralama</string>
     <string name="sorting_pref_default">Defolt</string>
     <string name="sorting_pref_track">Mahnı nömrəsinə görə ↓</string>
@@ -41,12 +41,12 @@
     <string name="filters_clear">Filtrləri təmizlə\?</string>
     <string name="filters_error">Gizli sənətçilər/qovlular/albomlar açıla bilmədi.</string>
     <string name="queue">Növbə</string>
-    <string name="queue_song_add">%1s növbəyə əlavə edildi!</string>
-    <string name="queue_song_remove">%1s növbədən qaldırılsınmı\?</string>
+    <string name="queue_song_add">%1$s növbəyə əlavə edildi!</string>
+    <string name="queue_song_remove">%1$s növbədən qaldırılsınmı\?</string>
     <string name="favorites">Sevimlilər</string>
-    <string name="favorite_added">%1s (%2s) sevimlilərə əlavə edildi</string>
+    <string name="favorite_added">%1$s (%2$s) sevimlilərə əlavə edildi</string>
     <string name="content_playback_speed">Oxutma sürəti</string>
-    <string name="sleeptimer_enabled">Oxutmağı %1s sonra dayandır</string>
+    <string name="sleeptimer_enabled">Oxutmağı %1$s sonra dayandır</string>
     <string name="speed_3">Normal</string>
     <string name="sleeptimer">Yuxu sayğacı</string>
     <string name="sleeptimer_stop">Dayandır</string>

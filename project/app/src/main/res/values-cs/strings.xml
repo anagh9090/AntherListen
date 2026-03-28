@@ -18,7 +18,7 @@
     <string name="on_close_activity">Zastavit přehrávání\?</string>
     <string name="queue_songs_clear">Vymazat frontu\?</string>
     <string name="favorites_clear">Vymazat všechny oblíbené\?</string>
-    <string name="favorite_remove">Odstranit %1s (%2s) z oblíbených\?</string>
+    <string name="favorite_remove">Odstranit %1$s (%2$s) z oblíbených\?</string>
     <string name="favorites_save_time">Uložit pozici skladby</string>
     <string name="albums">Alba</string>
     <string name="songs">Skladby</string>
@@ -26,8 +26,8 @@
     <string name="equalizer">Ekvalizér</string>
     <string name="equalizer_bb">Vylepšení basů</string>
     <string name="equalizer_v">Surround</string>
-    <string name="artist_info">%1d alb, %2d skladeb</string>
-    <string name="folder_info">%1d skladeb</string>
+    <string name="artist_info">%1$d alb, %2$d skladeb</string>
+    <string name="folder_info">%1$d skladeb</string>
     <string name="sorting_pref_track">Podle čísla skladby ↓</string>
     <string name="sorting_pref_track_inv">Podle čísla skladby ↑</string>
     <string name="sorting_pref_date_added">Nejstarší</string>
@@ -41,8 +41,8 @@
     <string name="queue_add">Přidat do fronty</string>
     <string name="favorite_add">Oblíbené</string>
     <string name="filter_popup_title">Skrýt</string>
-    <string name="queue_song_add">Skladba %1s přidána do fronty!</string>
-    <string name="queue_song_remove">Odebrat skladbu %1s z fronty\?</string>
+    <string name="queue_song_add">Skladba %1$s přidána do fronty!</string>
+    <string name="queue_song_remove">Odebrat skladbu %1$s z fronty\?</string>
     <string name="open_git_pref_summary">Otevřete si stránku projektu pro více informací :)</string>
     <string name="open_details_fragment">Otevřít podrobnosti o umělci/složce</string>
     <string name="error_no_favorites">Nejprve přidejte nějaké oblíbené.</string>
@@ -84,7 +84,7 @@
     <string name="anim_pref_title">Animace</string>
     <string name="filter_pref_title">Filtry</string>
     <string name="favorites">Oblíbené</string>
-    <string name="favorite_added">Skladba %1s (%2s) přidána do oblíbených</string>
+    <string name="favorite_added">Skladba %1$s (%2$s) přidána do oblíbených</string>
     <string name="content_play">Přehrát/pozastavit</string>
     <string name="content_skip_next">Přeskočit na další</string>
     <string name="theme_pref_auto_title">Systémový</string>
@@ -152,7 +152,7 @@
     <string name="grey">Šedá</string>
     <string name="sleeptimer_cancel_desc">Zastavit časovač spánku</string>
     <string name="sleeptimer">Časovač spánku</string>
-    <string name="sleeptimer_enabled">Zastavit přehrávání po %1s</string>
+    <string name="sleeptimer_enabled">Zastavit přehrávání po %1$s</string>
     <string name="sleeptimer_stop">Zastavit</string>
     <string name="locale_bulgarian">Bulharština</string>
     <string name="theme_pref_black_title">Plně černá</string>

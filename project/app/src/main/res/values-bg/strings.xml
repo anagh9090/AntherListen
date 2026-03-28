@@ -4,7 +4,7 @@
     <string name="cancel">Отказ</string>
     <string name="on_close_activity">Спри възпроизвеждането\?</string>
     <string name="favorites_clear">Изчисти всички любими\?</string>
-    <string name="favorite_remove">Изтрий %1s (%2s) от любими\?</string>
+    <string name="favorite_remove">Изтрий %1$s (%2$s) от любими\?</string>
     <string name="favorites_save_time">Запази позицията на песента</string>
     <string name="artists">Изпълнители</string>
     <string name="albums">Албуми</string>
@@ -13,8 +13,8 @@
     <string name="equalizer">Изравнител</string>
     <string name="equalizer_presets">Предварително зададени</string>
     <string name="equalizer_bb">Усилване на басите</string>
-    <string name="artist_info">%1d Албуми, %2d Песни</string>
-    <string name="folder_info">%1d Песни</string>
+    <string name="artist_info">%1$d Албуми, %2$d Песни</string>
+    <string name="folder_info">%1$d Песни</string>
     <string name="sorting_pref">Подреждане</string>
     <string name="equalizer_v">Съраунд звук</string>
     <string name="yes">Да</string>
@@ -49,10 +49,10 @@
     <string name="content_play">Пусни/Спри</string>
     <string name="content_skip_prev">Пропусни до предишната</string>
     <string name="favorites">Любими</string>
-    <string name="queue_song_add">%1s добавено към опашката!</string>
+    <string name="queue_song_add">%1$s добавено към опашката!</string>
     <string name="error_unknown_unsupported">Нещо се обърка! :( Може би файловия формат не е поддържан, или папката не може да се достигне (не е проблем с приложението!).</string>
     <string name="queue_add">Добави към опашката</string>
-    <string name="queue_song_remove">Махни %1s от опашката\?</string>
+    <string name="queue_song_remove">Махни %1$s от опашката\?</string>
     <string name="active_fragments_pref_title">Активни прозорци</string>
     <string name="locale_nepali">Непалски</string>
     <string name="locale_spanish">Испански</string>
@@ -148,6 +148,6 @@
     <string name="content_playback_speed">Скорост на възпроизвеждане</string>
     <string name="error_no_favorites">Добави някакви любими първо.</string>
     <string name="speed_3">Нормална</string>
-    <string name="favorite_added">%1s (%2s) добавени към любими</string>
+    <string name="favorite_added">%1$s (%2$s) добавени към любими</string>
     <string name="error_not_ready">Не можа да се зареди музикалната библиотека! :( Махането на SD картата възстановява базата данни на Android MediaStore. Опитайте отново по-късно.</string>
 </resources>

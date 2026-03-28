@@ -5,7 +5,7 @@
     <string name="no">Tidak</string>
     <string name="delete">Padam</string>
     <string name="on_close_activity">Hentikan main semula\?</string>
-    <string name="favorite_remove">Padamkan %1s (%2s) daripada kegemaran\?</string>
+    <string name="favorite_remove">Padamkan %1$s (%2$s) daripada kegemaran\?</string>
     <string name="favorites_save_time">Simpan kedudukan lagu</string>
     <string name="sorting_pref_save">Tetapkan sebagai pengisihan lalai\?</string>
     <string name="sorting_pref_reset">Tetapkan semula pengisihan trek</string>

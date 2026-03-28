@@ -3,15 +3,15 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 
 android {
-    compileSdkVersion 34
+    compileSdkVersion 35
     //noinspection GradleDependency
     defaultConfig {
         applicationId "com.anagh.antherlisten"
         minSdkVersion 21
-        targetSdkVersion 34
-        versionCode 1
-        versionName "1.0.00"
-
+        targetSdkVersion 35
+        versionCode 3
+        versionName "1.0.03"
+	resConfigs "en", "hi"
         vectorDrawables.useSupportLibrary true
     }
 

@@ -7,7 +7,7 @@
     <string name="error_bad_id">Сначала выберите трек.</string>
     <string name="error_no_browser">Сначала установите браузер.</string>
     <string name="perm_rationale">Сначала выдайте AntherListen доступ к вашим файлам для воспроизведения музыки.</string>
-    <string name="artist_info">%1d Aльбомов, %2d Треков</string>
+    <string name="artist_info">%1$d Aльбомов, %2$d Треков</string>
     <string name="active_fragments_pref_title">Активные вкладки</string>
     <string name="artists">Исполнители</string>
     <string name="category_general">Общее</string>
@@ -15,13 +15,13 @@
     <string name="error_no_favorites">Сначала добавьте какие-либо избранные.</string>
     <string name="error_unknown_unsupported">Что-то пошло не так! :( Возможно, формат не поддерживается или папка недоступна (это не вина приложения!).</string>
     <string name="folders">Папки</string>
-    <string name="folder_info">%1d Треки</string>
+    <string name="folder_info">%1$d Треки</string>
     <string name="accent_pref_title">Акцент</string>
     <string name="focus_pref_title">Управление фокусировкой аудио</string>
     <string name="headset_pref_title">Управление гарнитурой</string>
     <string name="favorite_add">Избранное</string>
-    <string name="favorite_added">%1s (%2s) теперь в избранном</string>
-    <string name="favorite_remove">Удалить %1s (%2s) из избранного\?</string>
+    <string name="favorite_added">%1$s (%2$s) теперь в избранном</string>
+    <string name="favorite_remove">Удалить %1$s (%2$s) из избранного\?</string>
     <string name="favorites">Избранное</string>
     <string name="favorites_clear">Очистить все избранные\?</string>
     <string name="on_close_activity">Остановить воспроизведение\?</string>
@@ -29,8 +29,8 @@
     <string name="precise_volume_pref_title">Точный контроль громкости</string>
     <string name="queue">Очередь</string>
     <string name="queue_add">В очередь</string>
-    <string name="queue_song_add">%1s теперь в очереди!</string>
-    <string name="queue_song_remove">Удалить %1s из очереди\?</string>
+    <string name="queue_song_add">%1$s теперь в очереди!</string>
+    <string name="queue_song_remove">Удалить %1$s из очереди\?</string>
     <string name="queue_songs_clear">Очистить очередь\?</string>
     <string name="repeat_disabled">∞ повтор выключен.</string>
     <string name="repeat_enabled">Однократное повторение включено.</string>
@@ -153,7 +153,7 @@
     <string name="sleeptimer">Таймер сна</string>
     <string name="sleeptimer_stop">Остановить</string>
     <string name="sleeptimer_cancel_desc">Остановить таймер сна</string>
-    <string name="sleeptimer_enabled">Остановить проигрывание после %1s</string>
+    <string name="sleeptimer_enabled">Остановить проигрывание после %1$s</string>
     <string name="theme_pref_black_title">Абсолютно чёрный</string>
     <string name="locale_bulgarian">Болгарский</string>
     <string name="filters_clear">Очистить фильтры\?</string>

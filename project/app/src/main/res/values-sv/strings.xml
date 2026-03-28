@@ -50,10 +50,10 @@
     <string name="content_skip_prev">Hoppa till föregående</string>
     <string name="speed_3">Normal</string>
     <string name="content_playback_speed">Uppspelningshastighet</string>
-    <string name="favorite_added">%1s (%2s) favoritmarkerade</string>
+    <string name="favorite_added">%1$s (%2$s) favoritmarkerade</string>
     <string name="favorites">Favoriter</string>
-    <string name="queue_song_remove">Ta bort %1s från kön\?</string>
-    <string name="queue_song_add">%1s köad!</string>
+    <string name="queue_song_remove">Ta bort %1$s från kön\?</string>
+    <string name="queue_song_add">%1$s köad!</string>
     <string name="queue">Kö</string>
     <string name="filter_popup_title">Dölj</string>
     <string name="favorite_add">Favoritmärk</string>
@@ -70,8 +70,8 @@
     <string name="sorting_pref_track">Efter spårnr. ↓</string>
     <string name="sorting_pref_default">Standard</string>
     <string name="sorting_pref">Sortering</string>
-    <string name="folder_info">%1d låtar</string>
-    <string name="artist_info">%1d album, %2d låtar</string>
+    <string name="folder_info">%1$d låtar</string>
+    <string name="artist_info">%1$d album, %2$d låtar</string>
     <string name="equalizer_v">Surroundljud</string>
     <string name="equalizer_bb">Basförstärkning</string>
     <string name="equalizer">Frekvenskorrigerare</string>
@@ -80,7 +80,7 @@
     <string name="albums">Album</string>
     <string name="artists">Artister</string>
     <string name="favorites_save_time">Spara låtens position</string>
-    <string name="favorite_remove">Ta bort %1s (%2s) från favoriter\?</string>
+    <string name="favorite_remove">Ta bort %1$s (%2$s) från favoriter\?</string>
     <string name="favorites_clear">Rens alla favoriter\?</string>
     <string name="queue_songs_clear">Rens kön\?</string>
     <string name="on_close_activity">Stoppa uppspelningen\?</string>
@@ -105,7 +105,7 @@
     <string name="brown">Brun</string>
     <string name="grey">Grå</string>
     <string name="blue_grey">Blågrå</string>
-    <string name="sleeptimer_enabled">Stoppa uppspelningen %1s efter</string>
+    <string name="sleeptimer_enabled">Stoppa uppspelningen %1$s efter</string>
     <string name="sleeptimer_stop">Stoppa</string>
     <string name="sleeptimer_cancel_desc">Stoppa insomningstimer</string>
     <string name="locale_belarusian">Vitryska</string>

@@ -47,10 +47,10 @@
     <string name="content_play">Spel av/pause</string>
     <string name="content_skip_prev">Hopp til føregåande</string>
     <string name="speed_3">Normalt</string>
-    <string name="favorite_added">%1s (%2s) favorittmerkt</string>
+    <string name="favorite_added">%1$s (%2$s) favorittmerkt</string>
     <string name="favorites">Favorittar</string>
-    <string name="queue_song_remove">Fjern %1s frå køa\?</string>
-    <string name="queue_song_add">%1s lagd i køa.</string>
+    <string name="queue_song_remove">Fjern %1$s frå køa\?</string>
+    <string name="queue_song_add">%1$s lagd i køa.</string>
     <string name="queue">Kø</string>
     <string name="filter_popup_title">Dølja</string>
     <string name="favorite_add">Favorittmerk</string>
@@ -66,8 +66,8 @@
     <string name="sorting_pref_track_inv">Etter spornr. ↑</string>
     <string name="sorting_pref_track">Etter spornr. ↓</string>
     <string name="sorting_pref">Sortering</string>
-    <string name="folder_info">%1d songar</string>
-    <string name="artist_info">%1d album, %2d songar</string>
+    <string name="folder_info">%1$d songar</string>
+    <string name="artist_info">%1$d album, %2$d songar</string>
     <string name="equalizer_v">Kringljod</string>
     <string name="equalizer_bb">Bassforsterking</string>
     <string name="equalizer">Tonekontroll</string>
@@ -76,7 +76,7 @@
     <string name="albums">Album</string>
     <string name="artists">Artistar</string>
     <string name="favorites_save_time">Spar songposisjon</string>
-    <string name="favorite_remove">Slett %1s (%2s) frå favorittar\?</string>
+    <string name="favorite_remove">Slett %1$s (%2$s) frå favorittar\?</string>
     <string name="favorites_clear">Tøm alle favorittar\?</string>
     <string name="queue_songs_clear">Tøm køa\?</string>
     <string name="on_close_activity">Stans avspelinga\?</string>

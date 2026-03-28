@@ -29,7 +29,7 @@
     <string name="queue_songs_clear">Limpar fila\?</string>
     <string name="grey">Cinzento</string>
     <string name="favorites_clear">Limpar todos os favoritos\?</string>
-    <string name="favorite_remove">Apagar %1s (%2s) dos favoritos\?</string>
+    <string name="favorite_remove">Apagar %1$s (%2$s) dos favoritos\?</string>
     <string name="favorites_save_time">Gravar a posição da música</string>
     <string name="sorting_pref_save">Definir como ordenação padrão\?</string>
     <string name="sorting_pref_reset">Redefinir ordenação de faixas</string>
@@ -44,8 +44,8 @@
     <string name="equalizer_presets">Predefinições</string>
     <string name="equalizer_bb">Aumento dos graves</string>
     <string name="equalizer_v">Som surround</string>
-    <string name="artist_info">%1d Álbum(ns), %2d Música(s)</string>
-    <string name="folder_info">%1d Música(s)</string>
+    <string name="artist_info">%1$d Álbum(ns), %2$d Música(s)</string>
+    <string name="folder_info">%1$d Música(s)</string>
     <string name="sorting_pref_track">Pelo número da faixa ↓</string>
     <string name="sorting_pref_track_inv">Pelo número da faixa ↑</string>
     <string name="sorting_pref_date_added">Adicionado por último</string>
@@ -62,13 +62,13 @@
     <string name="filters_clear">Os filtros serão limpos. Continuar\?</string>
     <string name="filters_error">Não foi possível abrir artistas/pastas/álbuns ocultos.</string>
     <string name="queue">Fila</string>
-    <string name="queue_song_add">%1s adicionada à fila!</string>
-    <string name="queue_song_remove">Remover %1s da fila\?</string>
+    <string name="queue_song_add">%1$s adicionada à fila!</string>
+    <string name="queue_song_remove">Remover %1$s da fila\?</string>
     <string name="favorites">Favoritos</string>
-    <string name="favorite_added">%1s (%2s) adicionada aos favoritos</string>
+    <string name="favorite_added">%1$s (%2$s) adicionada aos favoritos</string>
     <string name="content_playback_speed">Velocidade de reprodução</string>
     <string name="content_skip_next">Pular para a próxima</string>
-    <string name="sleeptimer_enabled">Parar a reprodução %1s depois</string>
+    <string name="sleeptimer_enabled">Parar a reprodução %1$s depois</string>
     <string name="sleeptimer_stop">Parar</string>
     <string name="sleeptimer_cancel_desc">Parar temporizador</string>
     <string name="content_skip_prev">Pular para a anterior</string>

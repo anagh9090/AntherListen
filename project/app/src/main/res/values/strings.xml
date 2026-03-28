@@ -9,7 +9,7 @@
     <string name="on_close_activity">Stop playback?</string>
     <string name="queue_songs_clear">Clear queue?</string>
     <string name="favorites_clear">Clear all favorites?</string>
-    <string name="favorite_remove">Delete %1s (%2s) from favorites?</string>
+    <string name="favorite_remove">Delete %1$s (%2$s) from favorites?</string>
     <string name="favorites_save_time">Save song position</string>
     <string name="sorting_pref_save">Set as default sorting?</string>
     <string name="sorting_pref_reset">Reset track sorting</string>
@@ -27,8 +27,8 @@
     <string name="equalizer_bb">Bass boost</string>
     <string name="equalizer_v">Surround sound</string>
     <!-- Main - Artists/Folder RecyclerViews items  -->
-    <string name="artist_info">%1d Albums, %2d Songs</string>
-    <string name="folder_info">%1d Songs</string>
+    <string name="artist_info">%1$d Albums, %2$d Songs</string>
+    <string name="folder_info">%1$d Songs</string>
     <!-- Popup/Menu titles -->
     <string name="sorting_pref">Sorting</string>
     <string name="sorting_pref_default">Default</string>
@@ -49,17 +49,17 @@
     <string name="filters_error">Could not open hidden artists/folders/albums.</string>
     <!-- Queue -->
     <string name="queue">Queue</string>
-    <string name="queue_song_add">%1s enqueued!</string>
-    <string name="queue_song_remove">Remove %1s from queue?</string>
+    <string name="queue_song_add">%1$s enqueued!</string>
+    <string name="queue_song_remove">Remove %1$s from queue?</string>
     <!-- Favorites -->
     <string name="favorites">Favorites</string>
-    <string name="favorite_added">%1s (%2s) favorited</string>
+    <string name="favorite_added">%1$s (%2$s) favorited</string>
     <!-- Playback speed -->
     <string name="content_playback_speed">Playback speed</string>
     <string name="speed_3">Normal</string>
     <!-- Sleep timer-->
     <string name="sleeptimer">Sleep timer</string>
-    <string name="sleeptimer_enabled">Stop playback %1s after</string>
+    <string name="sleeptimer_enabled">Stop playback %1$s after</string>
     <string name="sleeptimer_stop">Stop</string>
     <string name="sleeptimer_cancel_desc">Stop sleep timer</string>
     <!-- other content descriptions -->

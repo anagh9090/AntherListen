@@ -48,10 +48,10 @@
     <string name="content_skip_prev">Aurreko abestira salto egin</string>
     <string name="speed_3">Normala</string>
     <string name="content_playback_speed">Erreprodukzio-abiadura</string>
-    <string name="favorite_added">%1s (%2s) abesti gustukoenei gehituta</string>
+    <string name="favorite_added">%1$s (%2$s) abesti gustukoenei gehituta</string>
     <string name="favorites">Abesti gustukoenak</string>
-    <string name="queue_song_remove">%1s isatsetik kenduko da. Jarraitu\?</string>
-    <string name="queue_song_add">%1s isatsean!</string>
+    <string name="queue_song_remove">%1$s isatsetik kenduko da. Jarraitu\?</string>
+    <string name="queue_song_add">%1$s isatsean!</string>
     <string name="queue">Isatsa</string>
     <string name="filter_popup_title">Ezkutatu</string>
     <string name="favorite_add">Abesti gogokoenei erantsi</string>
@@ -68,8 +68,8 @@
     <string name="sorting_pref_track">Pista-zenbakiaren arabera ↓</string>
     <string name="sorting_pref_default">Lehenetsita</string>
     <string name="sorting_pref">Sailkapena</string>
-    <string name="folder_info">%1d abestiak</string>
-    <string name="artist_info">%1d albumak, %2d abestiak</string>
+    <string name="folder_info">%1$d abestiak</string>
+    <string name="artist_info">%1$d albumak, %2$d abestiak</string>
     <string name="equalizer_v">Audio inguratzailea</string>
     <string name="equalizer_bb">Larrien errefortzua</string>
     <string name="equalizer">Ekualizatzailea</string>
@@ -78,7 +78,7 @@
     <string name="albums">Albumak</string>
     <string name="artists">Artistak</string>
     <string name="favorites_save_time">Gorde abestiaren posizioa</string>
-    <string name="favorite_remove">%1s (%2s) abestirik gustukoenetatik kanporatuko dira. Jarraitu\?</string>
+    <string name="favorite_remove">%1$s (%2$s) abestirik gustukoenetatik kanporatuko dira. Jarraitu\?</string>
     <string name="favorites_clear">Abesti gustukoenak ezabatu egingo dira. Jarraitu\?</string>
     <string name="queue_songs_clear">Kola garbituko da. Jarraitu\?</string>
     <string name="on_close_activity">Erreprodukzioa gelditu nahi duzu\?</string>

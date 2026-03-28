@@ -6,7 +6,7 @@
     <string name="filters_clear">ਫਿਲਟਰ ਸਾਫ਼ ਕਰੋ\?</string>
     <string name="speed_3">ਸਧਾਰਣ</string>
     <string name="favorites">ਮਨਪਸੰਦ</string>
-    <string name="sleeptimer_enabled">ਪਲੇਬੈਕ %1s ਬਾਅਦ ਬੰਦ ਕਰੋ</string>
+    <string name="sleeptimer_enabled">ਪਲੇਬੈਕ %1$s ਬਾਅਦ ਬੰਦ ਕਰੋ</string>
     <string name="open_details_fragment">ਕਲਾਕਾਰ/ਫੋਲਡਰ ਦੇ ਵੇਰਵੇ ਖੋਲ੍ਹੋ</string>
     <string name="error_fs_not_allowed_sum">ਤਰੁੱਟੀ! MPGO ਲਈ ਬੈਟਰੀ ਓਪਟੀਮਾਈਜੇਸ਼ਨ ਬੰਦ ਕਰੋ</string>
     <string name="error_fs_not_allowed">ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ! :( ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬੈਟਰੀ ਓਪਟੀਮਾਈਜੇਸ਼ਨ ਨੂੰ ਬੰਦ ਕਰਨ ਬਾਰੇ ਵਿਚਾਰ ਕਰੋ: ਐਪਸ &gt; ਸਾਰੀਆਂ ਐਪਾਂ &gt; ਸੰਗੀਤ ਪਲੇਅਰ GO &gt; ਬੈਟਰੀ &gt; ਅਪ੍ਰਬੰਧਿਤ, ਕਿਉਂਕਿ ਇਹ ਮੀਡੀਆ ਪਲੇਅਰ ਸੇਵਾ ਨੂੰ ਬੰਦ ਕਰਨ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦਾ ਹੈ।</string>
@@ -18,7 +18,7 @@
     <string name="ok">ਠੀਕ ਹੈ</string>
     <string name="no">ਨਹੀਂ</string>
     <string name="queue_songs_clear">ਕਤਾਰ ਸਾਫ਼ ਕਰਨੀ ਹੈ\?</string>
-    <string name="favorite_remove">ਕੀ ਪਸੰਦੀਦਾ ਵਿੱਚੋਂ %1s (%2s) ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ\?</string>
+    <string name="favorite_remove">ਕੀ ਪਸੰਦੀਦਾ ਵਿੱਚੋਂ %1$s (%2$s) ਨੂੰ ਮਿਟਾਉਣਾ ਹੈ\?</string>
     <string name="favorites_save_time">ਗੀਤ ਸਥਿਤੀ ਨੂੰ ਸਹੇਜੋ</string>
     <string name="sorting_pref_reset_confirm">ਕੀ ਛਾਂਟੀ ਦੀਆਂ ਤਰਜੀਹਾਂ ਨੂੰ ਰੀਸੈੱਟ ਕਰਨਾ ਹੈ\?</string>
     <string name="sorting_pref_reset_neutral">ਪੁੱਛਣਾ ਬੰਦ ਕਰੋ</string>
@@ -29,7 +29,7 @@
     <string name="equalizer_presets">ਪ੍ਰੀਸੈਟਸ</string>
     <string name="equalizer_bb">ਬਾਸ ਬੂਸਟ</string>
     <string name="equalizer_v">ਸਰਾਊਂਡ ਸਾਊਂਡ</string>
-    <string name="folder_info">%1d ਗਾਣੇ</string>
+    <string name="folder_info">%1$d ਗਾਣੇ</string>
     <string name="sorting_pref">ਛਾਂਟੀ</string>
     <string name="sorting_pref_default">ਡਿਫਾਲਟ</string>
     <string name="sorting_pref_date_added">ਆਖਰੀ ਜੋੜਿਆ ਗਿਆ</string>
@@ -42,9 +42,9 @@
     <string name="filter_popup_title">ਲੁਕਾਓ</string>
     <string name="filters_error">ਲੁਕੇ ਹੋਏ ਕਲਾਕਾਰ/ਫੋਲਡਰ/ਐਲਬਮਾਂ ਨੂੰ ਖੋਲ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ।</string>
     <string name="queue">ਕਤਾਰ</string>
-    <string name="queue_song_add">%1s ਕਤਾਰਬੱਧ!</string>
-    <string name="queue_song_remove">ਕਤਾਰ ਵਿੱਚੋਂ %1s ਨੂੰ ਹਟਾਉਣਾ ਹੈ\?</string>
-    <string name="favorite_added">%1s (%2s) ਪਸੰਦੀਦਾ ਕੀਤੇ</string>
+    <string name="queue_song_add">%1$s ਕਤਾਰਬੱਧ!</string>
+    <string name="queue_song_remove">ਕਤਾਰ ਵਿੱਚੋਂ %1$s ਨੂੰ ਹਟਾਉਣਾ ਹੈ\?</string>
+    <string name="favorite_added">%1$s (%2$s) ਪਸੰਦੀਦਾ ਕੀਤੇ</string>
     <string name="content_playback_speed">ਪਲੇਬੈਕ ਗਤੀ</string>
     <string name="sleeptimer">ਸਲੀਪ ਟਾਈਮਰ</string>
     <string name="sleeptimer_stop">ਰੋਕੋ</string>
@@ -69,7 +69,7 @@
     <string name="sorting_pref_reset">ਟਰੈਕ ਛਾਂਟੀ ਰੀਸੈਟ ਕਰੋ</string>
     <string name="sorting_pref_reset_sum">ਐਲਬਮਾਂ ਅਤੇ ਫੋਲਡਰਾਂ \'ਤੇ ਲਾਗੂ ਹੁੰਦਾ ਹੈ</string>
     <string name="songs">ਗੀਤ</string>
-    <string name="artist_info">%1d ਐਲਬਮ, %2d ਗਾਣੇ</string>
+    <string name="artist_info">%1$d ਐਲਬਮ, %2$d ਗਾਣੇ</string>
     <string name="sorting_pref_track_inv">ਟਰੈਕ ਨੰ. ਮੁਤਾਬਿਕ ↑</string>
     <string name="sorting_pref_save">ਪੂਰਵ-ਨਿਰਧਾਰਤ ਛਾਂਟੀ ਦੇ ਤੌਰ \'ਤੇ ਸੈੱਟ ਕਰਨਾ ਹੈ\?</string>
     <string name="sorting_pref_track">ਟਰੈਕ ਨੰ. ਮੁਤਾਬਿਕ ↓</string>

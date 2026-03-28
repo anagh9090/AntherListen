@@ -7,7 +7,7 @@
     <string name="on_close_activity">क्या आप प्लेबैक को रोकना चाहते हैं\?</string>
     <string name="queue_songs_clear">कतार को क्लीयर करें\?</string>
     <string name="favorites_clear">सभी पसंदीदा साफ़ करें\?</string>
-    <string name="favorite_remove">%1s (%2s) को प्रिय गीतों से हटाएं\?</string>
+    <string name="favorite_remove">%1$s (%2$s) को प्रिय गीतों से हटाएं\?</string>
     <string name="artists">कलाकार</string>
     <string name="albums">एल्बम</string>
     <string name="songs">गीत</string>
@@ -15,8 +15,8 @@
     <string name="equalizer">इक्वलाइज़र </string>
     <string name="equalizer_bb">बॉस बूस्ट </string>
     <string name="equalizer_v">सराउंड साउंड</string>
-    <string name="artist_info">%1d एल्बम, %2d गीत</string>
-    <string name="folder_info">%1d गीत</string>
+    <string name="artist_info">%1$d एल्बम, %2$d गीत</string>
+    <string name="folder_info">%1$d गीत</string>
     <string name="sorting_pref">क्रमबद्ध</string>
     <string name="sorting_pref_default">डिफ़ॉल्ट</string>
     <string name="sorting_pref_track">ट्रैक नं. ↓ के द्वारा</string>
@@ -27,10 +27,10 @@
     <string name="favorite_add">पसंदीदा</string>
     <string name="filter_popup_title">छिपाए</string>
     <string name="queue">पंक्ति</string>
-    <string name="queue_song_add">%1s कतार में जोड़ा गया!</string>
-    <string name="queue_song_remove">कतार से %1s निकालें\?</string>
+    <string name="queue_song_add">%1$s कतार में जोड़ा गया!</string>
+    <string name="queue_song_remove">कतार से %1$s निकालें\?</string>
     <string name="favorites">पसंदीदा गीत</string>
-    <string name="favorite_added">%1s (%2s) पसंदीदा चुने</string>
+    <string name="favorite_added">%1$s (%2$s) पसंदीदा चुने</string>
     <string name="error_no_favorites">पहले कुछ पसंदीदा जोड़ें।</string>
     <string name="error_no_music">पहले कुछ संगीत जोड़ें।</string>
     <string name="error_not_ready">संगीत लाइब्रेरी को लोड नहीं किया जा सका! :( एसडी कार्ड को अनमाउंट करने से एंड्रॉइड मीडियास्टोर डेटाबेस का पुनर्निर्माण होता है। बाद में पुनः प्रयास करें।</string>
@@ -132,7 +132,7 @@
     <string name="locale_japanese">जापानी</string>
     <string name="locale_korean">कोरियाई</string>
     <string name="sorting_pref_reset">ट्रैक छँटाई रीसेट करें</string>
-    <string name="sleeptimer_enabled">बजाना बन्द करे %1s के बाद</string>
+    <string name="sleeptimer_enabled">बजाना बन्द करे %1$s के बाद</string>
     <string name="confirm_ask_pref_title">पुष्टि संदेश</string>
     <string name="confirm_ask_pref_sum">कुछ भी करने से पहले पुष्टि के लिए पूछें</string>
     <string name="error_fs_not_allowed">कुछ गलत हो गया! :(सिस्टम सेटिंग में बैटरी ऑप्टिमाइज़ेशन को बंद करने पर विचार करें: ऐप्स &gt; सभी ऐप्स &gt; म्यूजिक प्लेयर GO &gt; बैटरी &gt; अप्रतिबंधित, क्योंकि इससे मीडिया प्लेयर सेवा बंद हो सकती है।</string>

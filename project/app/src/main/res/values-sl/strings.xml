@@ -47,10 +47,10 @@
     <string name="content_skip_prev">Skoči na prejšnjo pesem</string>
     <string name="speed_3">Normalna</string>
     <string name="content_playback_speed">Hitrost predvajanja</string>
-    <string name="favorite_added">Pesem %1s (%2s) je dodana med priljubljene</string>
+    <string name="favorite_added">Pesem %1$s (%2$s) je dodana med priljubljene</string>
     <string name="favorites">Priljubljene</string>
-    <string name="queue_song_remove">%1s bo odstranjena s čakalne vrste. Nadaljujem\?</string>
-    <string name="queue_song_add">%1s dodana v čakalno vrsto!</string>
+    <string name="queue_song_remove">%1$s bo odstranjena s čakalne vrste. Nadaljujem\?</string>
+    <string name="queue_song_add">%1$s dodana v čakalno vrsto!</string>
     <string name="queue">Čakalna vrsta</string>
     <string name="filter_popup_title">Skrij</string>
     <string name="favorite_add">Dodaj med priljubljene</string>
@@ -67,9 +67,9 @@
     <string name="sorting_pref_track">Po številki pesmi ↓</string>
     <string name="sorting_pref_default">Privzeto</string>
     <string name="sorting_pref">Razvrsti po</string>
-    <string name="folder_info">%1d pesmi</string>
-    <string name="artist_info">%1d albumov, %2d pesmi</string>
-    <string name="favorite_remove">Pesem %1s (%2s) bo odstranjena s seznama priljubljenih. Nadaljujem\?</string>
+    <string name="folder_info">%1$d pesmi</string>
+    <string name="artist_info">%1$d albumov, %2$d pesmi</string>
+    <string name="favorite_remove">Pesem %1$s (%2$s) bo odstranjena s seznama priljubljenih. Nadaljujem\?</string>
     <string name="equalizer_bb">Ojačanje nizkih tonov</string>
     <string name="equalizer">Izenačevalnik</string>
     <string name="folders">Mape</string>

@@ -48,10 +48,10 @@
     <string name="content_skip_prev">Перайсці да папярэдняй кампазіцыі</string>
     <string name="speed_3">Нармальная</string>
     <string name="content_playback_speed">Хуткасць прайгравання</string>
-    <string name="favorite_added">%1s (%2s) дададзена да абраных кампазіцый</string>
+    <string name="favorite_added">%1$s (%2$s) дададзена да абраных кампазіцый</string>
     <string name="favorites">Абраныя кампазіцыі</string>
-    <string name="queue_song_remove">%1s будзе выдалена з чаргі. Працягнуць\?</string>
-    <string name="queue_song_add">%1s дададзена ў чаргу!</string>
+    <string name="queue_song_remove">%1$s будзе выдалена з чаргі. Працягнуць\?</string>
+    <string name="queue_song_add">%1$s дададзена ў чаргу!</string>
     <string name="queue">Чарга</string>
     <string name="filter_popup_title">Схаваць</string>
     <string name="favorite_add">Дадаць да абраных кампазіцый</string>
@@ -66,8 +66,8 @@
     <string name="sorting_pref_track_inv">Паводле нумара кампазіцыі ↑</string>
     <string name="sorting_pref_default">Па змаўчанні</string>
     <string name="sorting_pref">Сартаванне</string>
-    <string name="folder_info">%1d кампазіцый</string>
-    <string name="artist_info">%1d альбомаў, %2d кампазіцый</string>
+    <string name="folder_info">%1$d кампазіцый</string>
+    <string name="artist_info">%1$d альбомаў, %2$d кампазіцый</string>
     <string name="equalizer_v">Аб\'ёмны гук</string>
     <string name="equalizer_bb">Узмацненне басоў</string>
     <string name="equalizer">Эквалайзер</string>
@@ -76,7 +76,7 @@
     <string name="albums">Альбомы</string>
     <string name="artists">Выканаўцы</string>
     <string name="favorites_save_time">Захаваць пазіцыю кампазіцыі</string>
-    <string name="favorite_remove">%1s (%2s) будзе выдалена з абраных кампазіцый. Працягнуць\?</string>
+    <string name="favorite_remove">%1$s (%2$s) будзе выдалена з абраных кампазіцый. Працягнуць\?</string>
     <string name="favorites_clear">Абраныя кампазіцыі будуць ачышчаны. Працягнуць\?</string>
     <string name="queue_songs_clear">Чарга будзе ачышчана. Працягнуць\?</string>
     <string name="on_close_activity">Вы хочаце спыніць прайграванне\?</string>

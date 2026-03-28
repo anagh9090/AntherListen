@@ -5,7 +5,7 @@
     <string name="error_bad_id">Спочатку відтворіть пісню.</string>
     <string name="error_no_browser">Спочатку встановіть браузер.</string>
     <string name="perm_rationale">Надайте музичному програвачу GO доступ до файлів для відтворення музики.</string>
-    <string name="artist_info">%1d Aльбомів, %2d Пісень</string>
+    <string name="artist_info">%1$d Aльбомів, %2$d Пісень</string>
     <string name="yes">так</string>
     <string name="no">ні</string>
     <string name="repeat_disabled">∞ повторення вимкнено.</string>
@@ -19,10 +19,10 @@
     <string name="error_no_favorites">Спочатку додайте обране.</string>
     <string name="error_fs_not_allowed_sum">Помилка! Вимкніть оптимізацію акумулятора для MPGO</string>
     <string name="error_fs_not_allowed">Щось пішло не так! :( Розгляньте можливість вимкнення оптимізації акумулятора в налаштуваннях системи: Програми &gt; Усі програми &gt; AntherListen &gt; Акумулятор &gt; Не обмежено, оскільки це може призвести до зупинки служби медіапрогравача.</string>
-    <string name="favorite_added">%1s (%2s) додано в обране</string>
+    <string name="favorite_added">%1$s (%2$s) додано в обране</string>
     <string name="favorites">Обране</string>
-    <string name="queue_song_remove">Прибрати %1s з черги\?</string>
-    <string name="queue_song_add">%1s додана в чергу!</string>
+    <string name="queue_song_remove">Прибрати %1$s з черги\?</string>
+    <string name="queue_song_add">%1$s додана в чергу!</string>
     <string name="queue">Черга</string>
     <string name="filter_popup_title">Сховати</string>
     <string name="favorite_add">Обране</string>
@@ -33,7 +33,7 @@
     <string name="sorting_pref_track">За номером пісні ↓</string>
     <string name="sorting_pref_default">Типове</string>
     <string name="sorting_pref">Сортування</string>
-    <string name="folder_info">%1d Пісні</string>
+    <string name="folder_info">%1$d Пісні</string>
     <string name="equalizer_v">Об\'ємний звук</string>
     <string name="equalizer_bb">Підсилення баса</string>
     <string name="equalizer">Еквалайзер</string>
@@ -41,7 +41,7 @@
     <string name="songs">Пісні</string>
     <string name="albums">Альбоми</string>
     <string name="artists">Виконавці</string>
-    <string name="favorite_remove">Видалити %1s (%2s) з обраного\?</string>
+    <string name="favorite_remove">Видалити %1$s (%2$s) з обраного\?</string>
     <string name="favorites_clear">Очистити всі обрані\?</string>
     <string name="queue_songs_clear">Очистити чергу\?</string>
     <string name="on_close_activity">Зупинити відтворення\?</string>
@@ -148,7 +148,7 @@
     <string name="light_green">Світло-зелений</string>
     <string name="theme_pref_black_title">Чистий чорний</string>
     <string name="locale_pref_title">Мова</string>
-    <string name="sleeptimer_enabled">Зупинити відтворення після %1s</string>
+    <string name="sleeptimer_enabled">Зупинити відтворення після %1$s</string>
     <string name="sleeptimer_stop">Зупинити</string>
     <string name="sleeptimer_cancel_desc">Зупинити таймер сну</string>
     <string name="light_blue">Блакитний</string>

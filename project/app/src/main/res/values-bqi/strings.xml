@@ -4,7 +4,7 @@
     <string name="no">na</string>
     <string name="delete">pāk kerdên</string>
     <string name="favorites_clear">poy čiyā dêlxāt pāk bun\?</string>
-    <string name="favorite_remove">%1s zê (%2s) čiyā dêlxāt pak bu\?</string>
+    <string name="favorite_remove">%1$s zê (%2$s) čiyā dêlxāt pak bu\?</string>
     <string name="sorting_pref_reset">vorgandênê ketên kerdên pîšfarz</string>
     <string name="sorting_pref_reset_confirm">vorgandênê sāmovā ketên kerdên\?</string>
     <string name="sorting_pref_reset_neutral">vāstak vo di zom soāl mako</string>
@@ -13,9 +13,9 @@
     <string name="equalizer">êkolāyzêr</string>
     <string name="equalizer_presets">zê pîš sāmov biďêyal</string>
     <string name="equalizer_bb">bîďar kerdên bam</string>
-    <string name="artist_info">%1d ālbom, %2d ārêng</string>
+    <string name="artist_info">%1$d ālbom, %2$d ārêng</string>
     <string name="favorites">mowrêď alāqêyal</string>
-    <string name="favorite_added">%1s (%2s) mowrêď alāqa</string>
+    <string name="favorite_added">%1$s (%2$s) mowrêď alāqa</string>
     <string name="speed_3">âďi</string>
     <string name="sleeptimer">tāymerê xaw</string>
     <string name="sleeptimer_stop">vāďāštên</string>
@@ -86,7 +86,7 @@
     <string name="artists">honarmandow</string>
     <string name="albums">ālbomā</string>
     <string name="equalizer_v">ārêngê poy jāger</string>
-    <string name="folder_info">%1d ārêng</string>
+    <string name="folder_info">%1$d ārêng</string>
     <string name="sorting_pref">ketên kerdên</string>
     <string name="sorting_pref_track_inv">vā šomāre ārêng. ↑</string>
     <string name="sorting_pref_default">pîšfarz</string>
@@ -105,10 +105,10 @@
     <string name="queue_add">gêy dāďên</string>
     <string name="filters_error">gušiďên honarmandā/dobalgêyal/ālbomā anjom nîgêre.</string>
     <string name="queue">saf</string>
-    <string name="queue_song_remove">%1s zê saf pāk bu\?</string>
-    <string name="queue_song_add">%1s avoď mênê saf!</string>
+    <string name="queue_song_remove">%1$s zê saf pāk bu\?</string>
+    <string name="queue_song_add">%1$s avoď mênê saf!</string>
     <string name="content_playback_speed">soratê pêšk</string>
-    <string name="sleeptimer_enabled">b\'ďê %1s pêškê nê vāďārn</string>
+    <string name="sleeptimer_enabled">b\'ďê %1$s pêškê nê vāďārn</string>
     <string name="open_git_pref_summary">si dovêsmandiyā bištar, balgê porože nê bogoš :)</string>
     <string name="error_not_ready">pāygā dāda ārêng, bārvani navâbi! :( joďā kerdên ram, tare pāygā dāda Android MediaStore nê vorkêl kone. dindātar zê nu tafre raw.</string>
     <string name="error_builtin_eq">ya xatā pîš avoď! zê êkolāyzêrê sistom êstêfāďe ko!</string>

@@ -48,10 +48,10 @@
     <string name="content_skip_prev">Nhảy sang bài trước</string>
     <string name="speed_3">Bình thường</string>
     <string name="content_playback_speed">Tốc độ phát</string>
-    <string name="favorite_added">Đã thêm %1s (%2s) vào bài hát yêu thích</string>
+    <string name="favorite_added">Đã thêm %1$s (%2$s) vào bài hát yêu thích</string>
     <string name="favorites">Bài hát yêu thích</string>
-    <string name="queue_song_remove">%1s sẽ bị xoá khỏi hàng đợi. Tiếp tục\?</string>
-    <string name="queue_song_add">Đã thêm %1s vào hàng đợi!</string>
+    <string name="queue_song_remove">%1$s sẽ bị xoá khỏi hàng đợi. Tiếp tục\?</string>
+    <string name="queue_song_add">Đã thêm %1$s vào hàng đợi!</string>
     <string name="queue">Hàng đợi</string>
     <string name="filter_popup_title">Ẩn</string>
     <string name="favorite_add">Thêm vào bài hát yêu thích</string>
@@ -68,8 +68,8 @@
     <string name="sorting_pref_track">Theo số bài ↓</string>
     <string name="sorting_pref_default">Mặc định</string>
     <string name="sorting_pref">Sắp xếp</string>
-    <string name="folder_info">%1d bài hát</string>
-    <string name="artist_info">%1d album, %2d bài hát</string>
+    <string name="folder_info">%1$d bài hát</string>
+    <string name="artist_info">%1$d album, %2$d bài hát</string>
     <string name="equalizer_v">Âm thanh vòm</string>
     <string name="equalizer_bb">Tăng âm bass</string>
     <string name="equalizer">Bộ cân bằng</string>
@@ -78,7 +78,7 @@
     <string name="albums">Album</string>
     <string name="artists">Nghệ sĩ</string>
     <string name="favorites_save_time">Lưu vị trí bài hát</string>
-    <string name="favorite_remove">%1s (%2s) sẽ bị xoá khỏi các bài hát yêu thích. Tiếp tục\?</string>
+    <string name="favorite_remove">%1$s (%2$s) sẽ bị xoá khỏi các bài hát yêu thích. Tiếp tục\?</string>
     <string name="favorites_clear">Các bài hát yêu thích sẽ bị xoá. Tiếp tục\?</string>
     <string name="queue_songs_clear">Hàng đợi sẽ bị xoá. Tiếp tục\?</string>
     <string name="on_close_activity">Bạn có muốn dừng phát không\?</string>

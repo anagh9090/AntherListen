@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="queue_add">Додај на тренутну листу</string>
-    <string name="queue_song_remove">Обриши %1s са тренутне листе\?</string>
+    <string name="queue_song_remove">Обриши %1$s са тренутне листе\?</string>
     <string name="favorites">Омиљено</string>
     <string name="yes">Да</string>
     <string name="favorites_clear">Обриши све омиљено\?</string>
     <string name="ok">У реду</string>
     <string name="delete">Обриши</string>
-    <string name="favorite_remove">Обриши %1s (%2s) из омиљених\?</string>
+    <string name="favorite_remove">Обриши %1$s (%2$s) из омиљених\?</string>
     <string name="equalizer_bb">Појачај бас</string>
-    <string name="artist_info">%1d Албума, %2d Песама</string>
-    <string name="folder_info">%1d Песама</string>
+    <string name="artist_info">%1$d Албума, %2$d Песама</string>
+    <string name="folder_info">%1$d Песама</string>
     <string name="sorting_pref_default">Подразумевано</string>
     <string name="filter_popup_title">Сакри</string>
     <string name="filters_clear">Обриши филтере\?</string>
     <string name="filters_error">Није могуће отворити скривене извођаче/фасцикле/албуме.</string>
     <string name="queue">Тренутна листа</string>
-    <string name="queue_song_add">%1s додато на тренутну листу!</string>
+    <string name="queue_song_add">%1$s додато на тренутну листу!</string>
     <string name="error_unknown_unsupported">Нешто је кренуло наопако! :( Можда формат није подржан или је фасцикла недоступна (није грешка апликације!).</string>
     <string name="error_no_browser">Прво инсталирај веб претраживач.</string>
     <string name="error_bad_id">Прво пусти нумеру.</string>
@@ -48,7 +48,7 @@
     <string name="shuffle_am">Промешај све песме</string>
     <string name="shuffle_sa">Промешај изабрани албум</string>
     <string name="favorite_add">Додај у омиљене</string>
-    <string name="favorite_added">%1s (%2s) додат у омиљене</string>
+    <string name="favorite_added">%1$s (%2$s) додат у омиљене</string>
     <string name="error_no_favorites">Прво додај нешто у омиљено.</string>
     <string name="speed_3">Нормална</string>
     <string name="content_playback_speed">Брзина репродукције</string>
@@ -108,7 +108,7 @@
     <string name="locale_russian">руски</string>
     <string name="locale_sinhalese">синхалешки</string>
     <string name="locale_thai">тајландски</string>
-    <string name="sleeptimer_enabled">Заустави репродукцију након %1s</string>
+    <string name="sleeptimer_enabled">Заустави репродукцију након %1$s</string>
     <string name="cancel">Откажи</string>
     <string name="on_close_activity">Заустави репродукцију\?</string>
     <string name="artists">Извођачи</string>

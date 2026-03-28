@@ -5,12 +5,12 @@
     <string name="yes">نعم</string>
     <string name="no">لا</string>
     <string name="favorites">الأغاني المفضلة</string>
-    <string name="favorite_added">%1s (%2s) أُضيف إلى الأغاني المفضلة</string>
+    <string name="favorite_added">%1$s (%2$s) أُضيف إلى الأغاني المفضلة</string>
     <string name="delete">حذف</string>
     <string name="on_close_activity">هل تريد إيقاف التشغيل؟</string>
     <string name="queue_songs_clear">مسح قائمة الانتظار؟</string>
     <string name="favorites_clear">مسح كل المفضلات؟</string>
-    <string name="favorite_remove">مسح %1s (%2s) من المفضلات؟</string>
+    <string name="favorite_remove">مسح %1$s (%2$s) من المفضلات؟</string>
     <string name="favorites_save_time">حفظ وقت التشغيل الحالي</string>
     <string name="artists">الفنانين</string>
     <string name="albums">الألبومات</string>
@@ -20,8 +20,8 @@
     <string name="equalizer_presets">الإعدادات المسبقة</string>
     <string name="equalizer_bb">تضخيمُ التردُّدات المنخفضة</string>
     <string name="equalizer_v">صوت محيطي</string>
-    <string name="artist_info">%1d الألبومات, %2d  الأغاني</string>
-    <string name="folder_info">%1d الأغاني</string>
+    <string name="artist_info">%1$d الألبومات, %2$d  الأغاني</string>
+    <string name="folder_info">%1$d الأغاني</string>
     <string name="sorting_pref">فرز</string>
     <string name="sorting_pref_default">الافتراضي</string>
     <string name="sorting_pref_track">بواسطة رقم المسار. ↓</string>
@@ -38,8 +38,8 @@
     <string name="favorite_add">إضافة إلى الأغاني المفضلة</string>
     <string name="filter_popup_title">إخفاء</string>
     <string name="queue">قائمة التشغيل</string>
-    <string name="queue_song_add">%1s تمت إضافته إلى قائمة التشغيل!</string>
-    <string name="queue_song_remove">%1s سيتم حذفه من قائمة التشغيل، استمرار؟</string>
+    <string name="queue_song_add">%1$s تمت إضافته إلى قائمة التشغيل!</string>
+    <string name="queue_song_remove">%1$s سيتم حذفه من قائمة التشغيل، استمرار؟</string>
     <string name="content_playback_speed">سرعة التشغيل</string>
     <string name="speed_3">عادية</string>
     <string name="content_skip_prev">القفز للسابق</string>
@@ -153,6 +153,6 @@
     <string name="sleeptimer">مؤقت النوم</string>
     <string name="sleeptimer_cancel_desc">إيقاف مؤقت النوم</string>
     <string name="sleeptimer_stop">إيقاف</string>
-    <string name="sleeptimer_enabled">أوقف التشغيل بعد %1s</string>
+    <string name="sleeptimer_enabled">أوقف التشغيل بعد %1$s</string>
     <string name="locale_bulgarian">البلغارية</string>
 </resources>

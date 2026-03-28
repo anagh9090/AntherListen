@@ -9,18 +9,18 @@
     <string name="app_git">https://github.com/enricocid/Music-Player-GO</string>
 
     <!-- Formatted strings used in RVs items and other TextViews -->
-    <string name="duration_artist_date_added">%1s, %2s, %3s</string>
-    <string name="duration_date_added">%1s, %2s</string>
-    <string name="rates">%1d&#160;kHz,&#160;%2d&#160;kbps</string>
-    <string name="artist_and_album">%1s&#160;/&#160;%2s</string>
-    <string name="track_song">&lt;b>%1d&lt;/b>&#160;-&#160;%2s</string>
-    <string name="year_and_duration">%1s&#160;-&#160;%2s</string>
-    <string name="favorite_subtitle">&lt;b>%1s&lt;/b>&#160;-&#160;%2s</string>
+    <string name="duration_artist_date_added">%1$s, %2$s, %3$s</string>
+    <string name="duration_date_added">%1$s, %2$s</string>
+    <string name="rates">%1$d&#160;kHz,&#160;%2$d&#160;kbps</string>
+    <string name="artist_and_album">%1$s&#160;/&#160;%2$s</string>
+    <string name="track_song">&lt;b>%1$d&lt;/b>&#160;-&#160;%2$s</string>
+    <string name="year_and_duration">%1$s&#160;-&#160;%2$s</string>
+    <string name="favorite_subtitle">&lt;b>%1$s&lt;/b>&#160;-&#160;%2$s</string>
 
     <!-- Formatting symbols -->
     <string name="slash">/</string>
     <string name="unknown_year">N&#x2F;A</string>
-    <string name="freq_k">%1dk</string>
+    <string name="freq_k">%1$dk</string>
     <string name="favorites_no_position">"&#x20;(00:00)"</string>
 
     <!-- Playback speed menu -->

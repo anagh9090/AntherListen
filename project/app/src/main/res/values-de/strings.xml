@@ -3,7 +3,7 @@
     <string name="error_bad_id">Zuerst ein Lied abspielen.</string>
     <string name="error_no_browser">Ein Webbrowser muss installiert sein.</string>
     <string name="perm_rationale">AntherListen Dateizugriff gewähren, um Musik abzuspielen.</string>
-    <string name="artist_info">%1d Alben, %2d Lieder</string>
+    <string name="artist_info">%1$d Alben, %2$d Lieder</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
     <string name="filter_pref_title">Filter</string>
@@ -38,10 +38,10 @@
     <string name="error_no_favorites">Es müssen erst Favoriten hinzugefügt werden.</string>
     <string name="error_fs_not_allowed_sum">Fehler! Batterieoptimierung für MPGO deaktivieren</string>
     <string name="error_fs_not_allowed">Etwas ist schiefgelaufen! :( Bitte deaktiviere die Batterioptimierung in den Systemeinstellungen: Apps &gt; Alle Apps &gt; AntherListen &gt; Akku &gt; Akkunutzung im Hintergrund zulassen, da es den Media Player Service stoppen kann.</string>
-    <string name="favorite_added">%1s (2%2s) zu den Lieblingsliedern zugefügt</string>
+    <string name="favorite_added">%1$s (2%2$s) zu den Lieblingsliedern zugefügt</string>
     <string name="favorites">Favoriten</string>
-    <string name="queue_song_remove">%1s aus Warteschlange entfernen\?</string>
-    <string name="queue_song_add">%1s zur Warteschlange hinzugefügt!</string>
+    <string name="queue_song_remove">%1$s aus Warteschlange entfernen\?</string>
+    <string name="queue_song_add">%1$s zur Warteschlange hinzugefügt!</string>
     <string name="queue">Warteschlange</string>
     <string name="filter_popup_title">Ausblenden</string>
     <string name="favorite_add">Zu den Favoriten hinzufügen</string>
@@ -52,7 +52,7 @@
     <string name="sorting_pref_track">Nach Titelnummer ↓</string>
     <string name="sorting_pref_default">Standard</string>
     <string name="sorting_pref">Sortierung</string>
-    <string name="folder_info">%1d Lieder</string>
+    <string name="folder_info">%1$d Lieder</string>
     <string name="equalizer_v">Rundumklang</string>
     <string name="equalizer_bb">Bassverstärkung</string>
     <string name="equalizer">Equalizer</string>
@@ -60,7 +60,7 @@
     <string name="songs">Lieder</string>
     <string name="albums">Alben</string>
     <string name="artists">Künstler</string>
-    <string name="favorite_remove">%1s (%2s) aus der Liste der Lieblingslieder löschen\?</string>
+    <string name="favorite_remove">%1$s (%2$s) aus der Liste der Lieblingslieder löschen\?</string>
     <string name="favorites_clear">Alle Lieblingslieder löschen\?</string>
     <string name="queue_songs_clear">Warteschlange leeren\?</string>
     <string name="on_close_activity">Wiedergabe beenden\?</string>
@@ -89,7 +89,7 @@
     <string name="pause_on_end_disabled">Am Ende pausieren aus.</string>
     <string name="equalizer_presets">Voreinstellungen</string>
     <string name="sleeptimer">Ruhemodus</string>
-    <string name="sleeptimer_enabled">Wiedergabe pausieren nach %1s</string>
+    <string name="sleeptimer_enabled">Wiedergabe pausieren nach %1$s</string>
     <string name="sleeptimer_stop">Stopp</string>
     <string name="green">Grün</string>
     <string name="light_green">Helles Grün</string>

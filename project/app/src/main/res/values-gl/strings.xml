@@ -8,14 +8,14 @@
     <string name="on_close_activity">Deter a reprodución\?</string>
     <string name="queue_songs_clear">Baleiras cola\?</string>
     <string name="favorites_clear">Baleirar os favoritos\?</string>
-    <string name="favorite_remove">Eliminar %1s (%2s) de favoritos\?</string>
+    <string name="favorite_remove">Eliminar %1$s (%2$s) de favoritos\?</string>
     <!-- Main - Fragments titles -->
     <string name="artists">Artistas</string>
     <string name="songs">Pistas</string>
     <string name="folders">Cartafoles</string>
     <!-- Main - Artists/Folder RecyclerViews items  -->
-    <string name="artist_info">%1d Álbumes, %2d Pistas</string>
-    <string name="folder_info">%1d Pistas</string>
+    <string name="artist_info">%1$d Álbumes, %2$d Pistas</string>
+    <string name="folder_info">%1$d Pistas</string>
     <!-- Popup/Menu titles -->
     <string name="sorting_pref">Ordenar</string>
     <string name="sorting_pref_default">Por omisión</string>
@@ -28,11 +28,11 @@
     <string name="filter_popup_title">Agochar</string>
     <!-- Queue -->
     <string name="queue">Cola</string>
-    <string name="queue_song_add">%1s á cola!</string>
-    <string name="queue_song_remove">Quitar %1s da cola\?</string>
+    <string name="queue_song_add">%1$s á cola!</string>
+    <string name="queue_song_remove">Quitar %1$s da cola\?</string>
     <!-- Loved songs -->
     <string name="favorites">Favoritas</string>
-    <string name="favorite_added">%1s (%2s) a favoritas</string>
+    <string name="favorite_added">%1$s (%2$s) a favoritas</string>
     <!-- Messages - Errors -->
     <string name="error_no_favorites">Engade algunha a favoritas.</string>
     <string name="error_no_music">Debes engadir algunha música.</string>
@@ -158,7 +158,7 @@
     <string name="locale_pref_title">Idioma</string>
     <string name="locale_sinhalese">Sinhalés</string>
     <string name="sleeptimer">Temporizador</string>
-    <string name="sleeptimer_enabled">Deter reprodución após %1s</string>
+    <string name="sleeptimer_enabled">Deter reprodución após %1$s</string>
     <string name="sleeptimer_stop">Deter</string>
     <string name="sleeptimer_cancel_desc">Deter temporizador</string>
     <string name="locale_bulgarian">Búlgaro</string>

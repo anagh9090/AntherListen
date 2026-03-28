@@ -27,8 +27,8 @@
     <string name="favorites_save_time">ذخیرهٔ موقعیت آهنگ</string>
     <string name="equalizer">اکولایزر</string>
     <string name="equalizer_bb">تقویت بم</string>
-    <string name="artist_info">%1d آلبوم، %2d آهنگ</string>
-    <string name="folder_info">%1d آهنگ</string>
+    <string name="artist_info">%1$d آلبوم، %2$d آهنگ</string>
+    <string name="folder_info">%1$d آهنگ</string>
     <string name="sorting_pref_artist_inv">بر اساس هنرمند ی-آ</string>
     <string name="sorting_pref_album">بر اساس آلبوم آ-ی</string>
     <string name="sorting_pref_album_inv">بر اساس آلبوم ی-آ</string>
@@ -44,7 +44,7 @@
     <string name="equalizer_v">صدای فراگیر</string>
     <string name="sorting_pref_artist">بر اساس هنرمند آ-ی</string>
     <string name="favorite_add">مورد علاقه</string>
-    <string name="queue_song_remove">مورد %1s از صف برداشته شود\?</string>
+    <string name="queue_song_remove">مورد %1$s از صف برداشته شود\?</string>
     <string name="favorites">مورد علاقه‌ها</string>
     <string name="content_skip_prev">پرش به قبلی</string>
     <string name="content_skip_next">پرش به بعدی</string>
